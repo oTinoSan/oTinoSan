@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 🥸 Who I am...
-My name is Santino Sini. Currently I'm a junior student at Fayetteville State University's Bachelor of Science in Computer Science program. Outside of classes, I participate as a full-time Undergraduate Researcher in the Intelligent Systems Lab [(ISL)](https://www.uncfsu.edu/academics/colleges-schools-and-departments/lloyd-college-of-health-science-and-technology/department-of-mathematics-and-computer-science/intelligent-systems-laboratory). I've completed a summer internship with NASA Jet Propulsion Laboratory's [EELS](https://www.jpl.nasa.gov/robotics-at-jpl/eels) project. I am looking for a summer 2024 internship that will be equally challenging and motivating. Some topics I've especially enjoyed learning about recently are networking, python/c++ code, and robotics.
+My name is Santino Sini. Currently I'm a junior student at Fayetteville State University's Bachelor of Science in Computer Science program. Outside of classes, I participate as a full-time Undergraduate Researcher in the Intelligent Systems Lab [(ISL)](https://www.uncfsu.edu/academics/colleges-schools-and-departments/lloyd-college-of-health-science-and-technology/department-of-mathematics-and-computer-science/intelligent-systems-laboratory). I completed a summer 2023 software internship with NASA Jet Propulsion Laboratory's [EELS](https://www.jpl.nasa.gov/robotics-at-jpl/eels) project. I am looking for a summer 2024 internship that will be equally challenging and motivating. Some topics I've especially enjoyed learning about recently are networking, python/c++ code, and robotics.
 
 [ISL's github](https://github.com/ISL-INTELLIGENT-SYSTEMS-LAB)
 
