@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+
+## Who I am...
+My name is Santino S. Currently I'm a junior student at Fayetteville State University's Bachelor of Science in Computer Science program. Outside of classes, I participate as a full-time Undergraduate Researcher in the Intelligent Systems Lab [(ISL)](https://www.uncfsu.edu/academics/colleges-schools-and-departments/lloyd-college-of-health-science-and-technology/department-of-mathematics-and-computer-science/intelligent-systems-laboratory) . 
+
+
+## What I'm currently working on
 
 <!--
 **oTinoSan/oTinoSan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
