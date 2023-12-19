@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 🥸 Who I am...
-Hi, I'm [Santino S](https://www.linkedin.com/in/santino-sini-53450811b/). Currently I'm a junior in Fayetteville State University's Bachelor of Science in Computer Science program. Outside of class, I participate as a full-time Undergraduate Researcher in the Intelligent Systems Lab [(ISL)](https://www.uncfsu.edu/academics/colleges-schools-and-departments/lloyd-college-of-health-science-and-technology/department-of-mathematics-and-computer-science/intelligent-systems-laboratory). I completed a summer 2023 software internship with NASA Jet Propulsion Laboratory's [EELS](https://www.jpl.nasa.gov/robotics-at-jpl/eels). I am looking for a summer 2024 internship that will be equally challenging and motivating. Some topics I've especially enjoyed learning about recently are networking, python/c++ code, and robotics.
+Hi, I'm [Santino S](https://www.linkedin.com/in/santino-sini-53450811b/). Currently I'm a junior in Fayetteville State University's Bachelor of Science in Computer Science program. Outside of class, I participate as a full-time Undergraduate Researcher at FSU's Intelligent Systems Lab [(ISL)](https://www.uncfsu.edu/academics/colleges-schools-and-departments/lloyd-college-of-health-science-and-technology/department-of-mathematics-and-computer-science/intelligent-systems-laboratory). This last summer 2023, I completed a software internship with NASA Jet Propulsion Laboratory's [EELS](https://www.jpl.nasa.gov/robotics-at-jpl/eels). I am looking for a summer 2024 internship that will be equally challenging and motivating. Some recent topics I've especially enjoyed learning about are networking, python/c++ code, and robotics.
 
 [ISL's GitHub](https://github.com/ISL-INTELLIGENT-SYSTEMS-LAB)
 
