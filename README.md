@@ -1,7 +1,9 @@
 # Hi there 👋
 
 ## Who I am...
-Hi, I'm [Santino S](https://www.linkedin.com/in/santino-sini-53450811b/). Currently I'm a senior in Fayetteville State University's (FSU) Bachelor of Science in Computer Science program. Outside of class, I participate as a full-time Undergraduate Researcher at FSU's Intelligent Systems Lab [(ISL)](https://www.uncfsu.edu/academics/colleges-schools-and-departments/lloyd-college-of-health-science-and-technology/department-of-mathematics-and-computer-science/intelligent-systems-laboratory). Summer 2023, I completed a software internship with NASA Jet Propulsion Laboratory's [EELS](https://www.jpl.nasa.gov/robotics-at-jpl/eels). Summer 2024,I completed a High Performance Computing (HPC) computer science / math internship at NSA Laboratory for Physical Sciences [(LPS)](https://www.lps.umd.edu/). Some recent topics I've especially enjoyed learning about are rust, python/c++ code, and HPC.
+Hi, I'm [Santino S](https://www.linkedin.com/in/santino-sini-53450811b/). Currently I'm a senior in Fayetteville State University's (FSU) Bachelor of Science in Computer Science program. Outside of class, I participate as a full-time Undergraduate Researcher at FSU's Intelligent Systems Lab [(ISL)](https://www.uncfsu.edu/academics/colleges-schools-and-departments/lloyd-college-of-health-science-and-technology/department-of-mathematics-and-computer-science/intelligent-systems-laboratory). Summer 2023, I completed a software internship with NASA Jet Propulsion Laboratory's [EELS](https://www.jpl.nasa.gov/robotics-at-jpl/eels). Summer 2024,I completed a High Performance Computing (HPC) computer science / math internship at NSA Laboratory for Physical Sciences [(LPS)](https://www.lps.umd.edu/). 
+
+Some recent topics I've enjoyed learning about are rust, python/c++ code, and HPC.
 
 [ISL's GitHub](https://github.com/ISL-INTELLIGENT-SYSTEMS-LAB)
 
